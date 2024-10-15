@@ -1,3 +1,3 @@
-var SUM = (a,b){
+const SUM = (a,b) => {
   return a+b;
 }
